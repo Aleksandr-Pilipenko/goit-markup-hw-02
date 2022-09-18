@@ -55,6 +55,9 @@ body {
   background-color: var(--super-waite);
 }
 /* ------navigation-site */
+.nav .site-nav.current {
+  color: var(--accent-color);
+}
 .site-nav {
   color: var(--title-text-color);
 }
